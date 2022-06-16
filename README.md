@@ -20,6 +20,7 @@ We will run GRASS GIS 8.2 on Google Colab through a Jupyter Notebook.
 
 Google Colab (https://colab.research.google.com/) notebook version:
 - https://github.com/neteler/jupyter_sentinel2_grass_gis/blob/main/sentinel2_grass_gis_colab.ipynb
+- [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neteler/jupyter_sentinel2_grass_gis/blob/main/sentinel2_grass_gis_colab.ipynb)
 
 Standard Jupyter Notebook for local usage or in Jupyterhub:
 - https://github.com/neteler/jupyter_sentinel2_grass_gis/blob/main/sentinel2_grass_gis.ipynb

@@ -14,7 +14,25 @@ GRASS GIS supports time-series processing for vector, raster, and volume data. T
 
 This course is based on [workshop material](https://geo.fsv.cvut.cz/geoharmonizer/odse_workshop_2022/grass/html/units/06.html) by Martin Landa, CVUT.
 
-We will run GRASS GIS 8.2 on Google Colab through a Jupyter Notebook.
+We will run GRASS GIS 8.2 through a Jupyter Notebook.
+
+**Content**
+
+- Why Jupyter Notebooks and how to use them?
+- GRASS GIS & Python
+- Setup of the Google Colab instance with GRASS GIS 8 *(only Google Colab version of Jupyter Notebook)*
+- Paths and variables, connecting to GRASS GIS backend
+- Data upload to notebook session
+- Initialization of GRASS GIS in the Jupyter notebook session
+- Creating an area of interest map
+- Importing geodata into GRASS GIS
+- Sentinel-2 processing overview
+- Computing NDVI
+- Time series data processing
+- Creating an image stack (imagery group)
+- Object recognition with image segmentation
+- Supervised Classification: RandomForest
+- What's next?
 
 **Jupyter Notebooks**
 

@@ -1,4 +1,4 @@
-## Jupyter notebook: GRASS GIS 8 and processing multitemporal EO data
+## Jupyter notebook: GRASS GIS 8 and processing of multitemporal EO data
 
 by Markus Neteler, https://www.mundialis.de/
 

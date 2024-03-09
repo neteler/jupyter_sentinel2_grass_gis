@@ -42,3 +42,19 @@ Google Colab (https://colab.research.google.com/) notebook version:
 
 Standard Jupyter Notebook for local usage or in Jupyterhub:
 - https://github.com/neteler/jupyter_sentinel2_grass_gis/blob/main/sentinel2_grass_gis.ipynb
+
+## Overview: Executing Jupyter notebooks
+
+There are several options available for running Jupyter notebooks, each offering different functions. Here are some ways to run Jupyter notebooks:
+
+A) Your **local computer**:
+- Standard Jupyter Notebook Server: Install the `python3-jupyter-core` server locally to run Jupyter notebooks
+
+B) **Cloud providers** to use your own Jupyter notebooks without having to install anything on your local machine:
+- Binder: run Notebooks stored in GitHub, GitLab, Google Drive, etc. (https://mybinder.org/)
+- Whole Tale: mainly for research purposes (https://wholetale.org/)
+- Google Colab: run Notebooks stored in Google Drive and GitHub; offers good hardware options (CPU, GPU, TPU) (https://colab.research.google.com/)
+- and other providers
+
+C) Own **JupyterLab server**:
+- JupyterLab: Deployment of a notebook server in your own server infrastructure, for multiple users (https://jupyter.org/hub)
